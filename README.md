@@ -1,6 +1,9 @@
-# Hi, I'm Utku Kucuk👋
+<h1 align="center">Hi, I'm Utku Kucuk👋</h1>
+<h3 align="center">Backend Developer • Cloud & DevOps Enthusiast</h3>
 
-## Backend Developer • Cloud & DevOps Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Backend%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Backend Engineer Banner" />
+</p>
 
 ---
 
@@ -36,18 +39,19 @@
 
 ## 💻 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mutkukucuk&layout=compact&theme=transparent&langs_count=8)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutkukucuk&show_icons=true&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutkukucuk&layout=compact&theme=transparent&langs_count=8" alt="Most used languages" />
+</p>
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutkukucuk)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mutkukucuk)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammet-utku-kucuk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mutkukucuk">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
