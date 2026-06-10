@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer • Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Backend%20Engineering&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Backend%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 ## 🚀 About Me
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-## 📊 GitHub Stats
+## 💻 Most Used Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mutkukucuk&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutkukucuk&layout=compact&theme=transparent&langs_count=8" alt="Most used languages" />
 </p>
