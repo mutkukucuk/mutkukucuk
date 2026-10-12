@@ -46,7 +46,7 @@ I'm a **backend software engineer** who cares about the whole life of a service 
       <h4><a href="https://github.com/utku-kucuk/viducate">🎬 Viducate</a></h4>
       Video learning platform with large lecture uploads, <b>byte-range streaming</b>, FFmpeg processing and <b>JWT + LDAP / Active Directory</b> sign-in for three roles.<br/><br/>
       <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>FFmpeg</code> <code>Nginx</code><br/>
-      <a href="https://utkukucuk.com/projects/viducate/">Case study →</a>
+      <a href="https://utku-kucuk.github.io/viducate/">Live demo ↗</a> · <a href="https://utkukucuk.com/projects/viducate/">Case study →</a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/utku-kucuk/IronEcho">🏋️ IronEcho</a></h4>
